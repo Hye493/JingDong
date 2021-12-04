@@ -1,7 +1,6 @@
-
 /* class="fas" 或者fab */
 .top-bar-wrapper{
-    width:auto;
+    margin:0 ;
     background-color: #E3E4E5;
     /*行高 设置高度 使文字垂直居中*/
     line-height: 30px;
@@ -236,7 +235,7 @@
     cursor: text;
 }
 .shop-car a{
-    /* display:inline-block; */
+    color: #000000;
     float: right;
     height: 38px;
     line-height: 38px;
@@ -301,10 +300,8 @@
 }
 /* bar-body */
 .bar-body{
-    /* width:auto; */
-    /* margin-top: 30px; */
+    width: 100%;
     background-color: rgb(247, 247, 247);
- 
     height: 990px;
     
 }
