@@ -1,12 +1,12 @@
 /* class="fas" 或者fab */
 .top-bar-wrapper{
-    margin:0 ;
+    width: auto;
     background-color: #E3E4E5;
     /*行高 设置高度 使文字垂直居中*/
     line-height: 30px;
     height: 30px;
     border-bottom: 1px solid #ddd;
-                                       
+    display: flex;                                   
 }
 .top-bar{
     width:990px;
